@@ -12,3 +12,6 @@ https://developers.facebook.com/docs/messenger-platform/reference/send-api/
 
 # Bachelor's in IS recommended courses based on interests
 http://sci.pitt.edu/academics/ugrad/is/
+
+# Course Recommender System - Guide
+https://www.uwb.edu/mscsse/curriculum/thesis-project/capstone-projects/papali-susan
