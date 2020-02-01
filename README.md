@@ -17,3 +17,6 @@ http://sci.pitt.edu/academics/ugrad/is/
 https://www.uwb.edu/mscsse/curriculum/thesis-project/capstone-projects/papali-susan
 
 https://www.researchgate.net/publication/317121166_A_Course_Recommender_System_based_on_Graduating_Attributes
+
+# TF-IDF example
+https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76
