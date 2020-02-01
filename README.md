@@ -20,3 +20,6 @@ https://www.researchgate.net/publication/317121166_A_Course_Recommender_System_b
 
 # TF-IDF example
 https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76
+
+# Recommender System (Medium Blog)
+https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
