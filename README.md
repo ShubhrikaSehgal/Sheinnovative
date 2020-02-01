@@ -23,3 +23,6 @@ https://towardsdatascience.com/natural-language-processing-feature-engineering-u
 
 # Recommender System (Medium Blog)
 https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
+
+##Powerpoint Presentation
+https://docs.google.com/presentation/d/16V5AqISsKb8i6IKWU1nzJM8hfH323Sk_kBoLjgoc71M/edit?usp=sharing
