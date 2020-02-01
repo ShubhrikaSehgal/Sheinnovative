@@ -15,3 +15,5 @@ http://sci.pitt.edu/academics/ugrad/is/
 
 # Course Recommender System - Guide
 https://www.uwb.edu/mscsse/curriculum/thesis-project/capstone-projects/papali-susan
+
+https://www.researchgate.net/publication/317121166_A_Course_Recommender_System_based_on_Graduating_Attributes
